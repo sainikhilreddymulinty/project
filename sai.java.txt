@@ -1,0 +1,11 @@
+class a
+{ 
+public static void main
+{
+System.out.println("hello world ");
+System.out.printlnln("Sai is great")
+matter
+}
+should be
+
+}
